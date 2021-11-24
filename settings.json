@@ -20,14 +20,15 @@
   ],
   "social": {
     "spotify": "",
-    "substack": "",
-    "facebook": "",
+    "substack": "https://katelivewire.substack.com/",
+    "facebook": "https://www.facebook.com/KateLivewire",
     "github": "http://katelivewire.github.io/",
-    "instagram": "",
+    "instagram": "https://www.instagram.com/katelivewire/",
     "patreon": "",
     "twitter": "https://twitter.com/glitch",
     "youtube": "https://www.youtube.com/c/GlitchDotCom",
-    "twitch": "",
-    "email": "officialkatelivewire@gmail.com"
+    "twitch": "twitch.tv/katelivewire",
+    "email": "officialkatelivewire@gmail.com",
+    "bandcamp": "https://katelivewire.bandcamp.com/"
   }
 }
