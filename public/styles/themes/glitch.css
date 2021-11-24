@@ -19,11 +19,11 @@ Select your chosen CSS by adding the theme name (e.g. glitch) in settings.json
 }
 
 :root {
-  --color-bg: #FFEADB;
+  --color-bg: #000000;
   --color-bg-alt: #D7F5EF;
   --color-text-main: #000000;
   --color-primary: #AFECE0;
-  --theme-color-title: #FFFFFF;
+  --theme-color-title: #000000;
   --font-family: "HK Grotesk";
   --font-family-header: "HK Grotesk";
   --font-family-list: Menlo, Consolas, Monaco, "Lucida Console", monospace;
