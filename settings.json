@@ -5,9 +5,14 @@
   "theme": "glitch",
   "avatarImage": "https://cdn.glitch.me/5e97df00-50b7-4687-bf02-57424351bf2a%2FKate%20Livewire%20logo%202021.png?v=1637714999796",
   "links": [
+
     {
-      "url": "https://www.lazada.com.ph/products/summer-dreams-anthology-paperback-i2285728965-s10319945781.html",
-      "text": "Buy Summer Dreams on Lazada"
+      "url": "https://archiveofourown.org/works/40184112",
+      "text": "The Princess of Jusan"
+    },
+    {
+      "url": "https://archiveofourown.org/works/60114388",
+      "text": "With You, Always"
     },
     {
       "url": "https://archiveofourown.org/works/25359808/chapters/61489198",
@@ -16,6 +21,10 @@
     {
       "url": "https://kate-livewire.itch.io/these-hallowed-halls",
       "text": "These Hallowed Halls Interactive Fiction Game"
+    },
+    {
+      "url": "https://www.lazada.com.ph/products/summer-dreams-anthology-paperback-i2285728965-s10319945781.html",
+      "text": "Buy Summer Dreams on Lazada"
     },
     {
       "url": "https://www.8lettersbooks.com/shop/virgo-tales-of-magic/",
