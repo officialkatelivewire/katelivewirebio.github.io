@@ -5,7 +5,14 @@
   "theme": "glitch",
   "avatarImage": "https://cdn.glitch.me/5e97df00-50b7-4687-bf02-57424351bf2a%2FKate%20Livewire%20logo%202021.png?v=1637714999796",
   "links": [
-
+    {
+      "url": "https://katelivewire.bandcamp.com/",
+      "text": "Bandcamp"
+    },
+    {
+      "url": "https://soundcloud.com/katelivewire",
+      "text": "SoundCloud"
+    },
     {
       "url": "https://www.youtube.com/@katelivewire",
       "text": "Youtube Live Streams 4-8 pm GMT+8 every Sunday"
@@ -23,16 +30,8 @@
       "text": "Between Pages: a Watson & Agnes Mystery"
     },
     {
-      "url": "https://kate-livewire.itch.io/these-hallowed-halls",
-      "text": "These Hallowed Halls Interactive Fiction Game"
-    },
-    {
       "url": "https://www.lazada.com.ph/products/summer-dreams-anthology-paperback-i2285728965-s10319945781.html",
       "text": "Buy Summer Dreams on Lazada"
-    },
-    {
-      "url": "https://www.8lettersbooks.com/shop/virgo-tales-of-magic/",
-      "text": "Virgo: Tales of Magic Anthology"
     }
   ],
   "social": {
